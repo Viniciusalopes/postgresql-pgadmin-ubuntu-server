@@ -51,7 +51,7 @@ Tópicos:
 
 # LICENÇA
 LEMBRANDO QUE a licença de uso do meu repositório é MIT, que trocando em miúdos quer dizer: "Todos que tiverem acesso poderão utilizar seu conteúdo".
-Sendo assim, quem disponibilizar material para o repositório ads20192, CONCORDA automaGicamente com os termos da licença MIT.
+Sendo assim, quem contribuir com material para melhorar este repositório, CONCORDA automaGicamente com os termos da licença MIT.
 
 https://opensource.org/licenses/MIT
 
