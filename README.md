@@ -14,6 +14,9 @@
 - Instalação e configuração do PgAdmin 4
 
 ---
+#### DOWNLOAD: [https://github.com/Viniciusalopes/postgresql-pgadmin-ubuntu-server/raw/master/postgresql-virtualbox-ubuntu-postgresql-pgadmin-passo-a-passo-v1.1_compressed.pdf](https://github.com/Viniciusalopes/postgresql-pgadmin-ubuntu-server/raw/master/postgresql-virtualbox-ubuntu-postgresql-pgadmin-passo-a-passo-v1.1_compressed.pdf)
+---
+
 ```
 Tópicos:
 +----+-----------------------------------------------------------------------------------------------------------+----+
